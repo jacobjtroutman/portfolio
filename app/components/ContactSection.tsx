@@ -77,7 +77,7 @@ export default function ContactSection() {
           {/* Social Links */}
           <div className="flex justify-center gap-6">
             <a
-              href="https://www.linkedin.com/in/jacob-troutman-1040a6352/"
+              href="https://www.linkedin.com/in/jacobjtroutman/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors p-2 hover:bg-gray-800 rounded-lg"
